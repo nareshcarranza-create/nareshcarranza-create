@@ -85,17 +85,6 @@ const badri = {
 
 ---
 
-## 🚀 Mi Proceso de Aprendizaje Actual
-*Actualmente expandiendo mi stack tecnológico para enfrentar desafíos más complejos:*
-
-- [ ] **Frameworks de JS (React/Next.js)** - [ ] **Bootstrap & Diseño Responsive**
-- [ ] **Arquitecturas Microservicios**
-
----
-
-
----
-
 
 <div align="Center">
 
