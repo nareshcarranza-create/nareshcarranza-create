@@ -44,6 +44,54 @@ const badri = {
 
 
 
+
+---
+
+## 💼 Experiencia Profesional
+*Unificando el soporte técnico con la visión de desarrollo de software.*
+
+| Empresa | Rol | Periodo | Impacto |
+| :--- | :--- | :--- | :--- |
+| **Periferia It Group** | Analista de soporte N1| 3 Meses | Diagnóstico de incidencias, administración de bases de datos (SQL - DBeaver) y optimización de atención al usuario final.. |
+| **Girag SAS** | Asistente de IT | 7 Meses |Automatización de tareas rutinarias y desarrollo de herramientas internas para optimizar procesos, y configuración de NVR y cámaras de vigilancia con su respectiva instalación, asistente de reuniones con proveedores y manejo y cotizaciones de activos para usuarios. |
+| **Fianzanuto SAS** | Agente de soporte tecnico | 6 Meses | Manejo y corrección de base de datos FISERV, mantenimientos preventivos, gestión de procesos de incidentes y manejo de activos. |
+
+
+---
+<p></p>
+<img style="width: 320px; height: 320px"; align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlwczgwaHlxeG9yZmQwc2gwMjA1eWJtNGd3d2Ewbmw1ZzJiYTEwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Yoqzhte2TFVM6xAsUF/giphy.gif" >
+
+## 🎓 Formación Académica
+
+### **Ingeniería de Software**
+*Universidad Iberoamericana* | **En curso**
+> Ingeniero de software
+
+### **Técnico en Sistemas**
+*Institución INCAP* | **Graduado 2024**
+> Técnico en software y bases de datos.
+
+---
+
+## 📑 Certificaciones y Especializaciones
+*Construyendo el camino hacia el desarrollo Full Stack a través de formación intensiva.*
+
+* **Desarrollo Full Stack & Backend** – Udemy / BIT - En curso
+* **Especialización en Java** – Skivra / Udemy - En curso
+* **Gestión de Bases de Datos SQL** – Udemy - En curso
+* **Desarrollo con IA** – BIG - Finalizado
+
+---
+
+## 🚀 Mi Proceso de Aprendizaje Actual
+*Actualmente expandiendo mi stack tecnológico para enfrentar desafíos más complejos:*
+
+- [ ] **Frameworks de JS (React/Next.js)** - [ ] **Bootstrap & Diseño Responsive**
+- [ ] **Arquitecturas Microservicios**
+
+---
+
+
 ---
 
 
