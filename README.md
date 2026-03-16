@@ -72,8 +72,10 @@ const badri = {
 > Técnico en software y bases de datos.
 
 ---
+<p></p>
+<img style="width: 230px; height: 200px"; align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh5OGt4NG1zNXd2dzN2YnhqZ3l0MGE3bTFwb3N2dDkxanp6YzB3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" >
 
-## 📑 Certificaciones y Especializaciones
+📑 Certificaciones y Especializaciones
 *Construyendo el camino hacia el desarrollo Full Stack a través de formación intensiva.*
 
 * **Desarrollo Full Stack & Backend** – Udemy / BIT - En curso
