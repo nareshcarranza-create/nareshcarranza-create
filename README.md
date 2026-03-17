@@ -89,7 +89,7 @@ const badri = {
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <!-- ICONO DE GMAIL --> <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://img.icons8.com/?size=50&id=nQ4dZIRCI0nW&format=png&color=000000"/></a> <!-- ICONO DE LINKEDIN -->‎ ‎<a href="www.linkedin.com/in/naresh-david-carranza-torres-b50438307"> <img src="https://img.icons8.com/?size=50&id=mpH52RRtTK3v&format=png&color=000000"/> </a> <!-- ICONO DE CV --> <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://img.icons8.com/?size=50&id=ymirmZtDtCts&format=png&color=000000"/> </a> |
+| <!-- ICONO DE GMAIL --> <a href="mailto:naresh.carranza@gmail.com"> <img src="https://img.icons8.com/?size=50&id=nQ4dZIRCI0nW&format=png&color=000000"/></a> <!-- ICONO DE LINKEDIN -->‎ ‎<a href="www.linkedin.com/in/naresh-david-carranza-torres-b50438307"> <img src="https://img.icons8.com/?size=50&id=mpH52RRtTK3v&format=png&color=000000"/> </a> 
 
 </div>
 
